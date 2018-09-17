@@ -1,0 +1,36 @@
+.selectArea{
+    position: relative;
+    height: 40px;
+    width: 100%;
+    
+    font-weight: 700;
+    font-family: New Century Schoolbook, sans-serif;
+    
+}
+optgroup{
+    font-weight: 700;
+    font-family: New Century Schoolbook, sans-serif;
+    font-size: 34px!important;
+}
+
+.div_central{
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+
+.imagem{
+    margin-top: 20px;
+    width: 250px;
+    height: 50px;
+}
+
+table img{
+    width: 200px;
+    height: 200px;
+}
+
+table td{
+    text-align: left;
+    vertical-align: top;
+}
