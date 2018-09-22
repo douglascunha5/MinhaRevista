@@ -41,6 +41,7 @@ body{
 
 .cabecalho{
     color: #FF4040;
+   font-size: 25px
 }
 
 #navCabecalho{
@@ -57,6 +58,16 @@ body{
 }
 .divImagem{
     display: inline-block;
-    width: 30%;
+    width: 20%;
     padding-top: 10px;
+}
+
+.fonteh1{
+    font-family: "Noticia Text" ;
+    font-weight: 600;
+}
+
+.fonteParagrafo{
+    font-size: 1.25rem;
+    font-family: "Open Sans serif";
 }
