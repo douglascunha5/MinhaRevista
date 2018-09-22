@@ -33,4 +33,30 @@ table img{
 table td{
     text-align: left;
     vertical-align: top;
+};
+
+body{
+    background-color: #98FB98;
+}
+
+.cabecalho{
+    color: #FF4040;
+}
+
+#navCabecalho{
+    background-color: #0c5628;
+}
+.imgRevista{
+    width:200px;
+    height: 250px;
+}
+
+.divTexto{
+    display: inline-block;
+    width:65%;
+}
+.divImagem{
+    display: inline-block;
+    width: 30%;
+    padding-top: 10px;
 }
